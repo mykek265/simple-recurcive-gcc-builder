@@ -1,0 +1,1 @@
+-std=c++20 -I../libs/SFML/include -L../libs/SFML/lib -F../libs/SFML/Frameworks -lsfml-graphics -lsfml-window -lsfml-system -Wl,-rpath ../libs/SFML/lib
