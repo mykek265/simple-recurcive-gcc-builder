@@ -1,5 +1,6 @@
-# simple-recurcive-gcc-builder
-source for simple recursive g++ builder
+# recurcive g++ builder
+src for recursive g++ builder
+
 
 ### how to build
 ```
